@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941822745447",
+    "project_id": "kanel-chat-app",
+    "storage_bucket": "kanel-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941822745447:android:de6862505c43c3694dedc2",
+        "android_client_info": {
+          "package_name": "com.example.kanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941822745447-vtk9km8u75ar0krgvt6g60ktrlujrgft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7g-jjalmK7f0k7jGoDWIFovFycIGqeCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941822745447-vtk9km8u75ar0krgvt6g60ktrlujrgft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
